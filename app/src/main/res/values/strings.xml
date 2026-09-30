@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vistazo</string>
+
+    <string name="home_today">Hoy</string>
+    <string name="home_unlocks_label">desbloqueos</string>
+    <string name="home_of_which">de los cuales %1$d fueron vistazos</string>
+    <string name="home_vistazos_explainer">Vistazo = volver a bloquear el móvil antes del umbral configurado.</string>
+    <string name="home_history_unlocks">El historial aparecerá tras 7 días de uso</string>
+    <string name="home_estimate_entry">¿Cuántas crees hoy? →</string>
+
+    <string name="history_title">Últimos 7 días</string>
+    <string name="history_open">Historial →</string>
+    <string name="history_back">← Volver</string>
+
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_open">Ajustes</string>
+    <string name="settings_section_report">REPORTE DIARIO</string>
+    <string name="settings_report_toggle">Reporte diario</string>
+    <string name="settings_report_subtitle">Una notificación al día con el conteo. Toca para jugar a \"¿cuántas crees?\".</string>
+    <string name="settings_report_time">Hora del reporte</string>
+    <string name="settings_hour_label">HH</string>
+    <string name="settings_minute_label">MM</string>
+    <string name="settings_time_save">Guardar</string>
+    <string name="settings_time_cancel">Cancelar</string>
+    <string name="settings_time_error">Hora 0–23 · minutos 0–59</string>
+    <string name="settings_section_vistazo">VISTAZO</string>
+    <string name="settings_threshold_value">Umbral de vistazo: %1$d s</string>
+    <string name="settings_threshold_note">Aplica a las sesiones nuevas desde ahora; el histórico no se reclasifica.</string>
+    <string name="settings_section_status_bar">BARRA DE ESTADO</string>
+
+    <string name="status_bar_toggle">Mostrar en la barra de estado</string>
+    <string name="status_bar_hint">Muestra un contador persistente en la barra de notificaciones y, además, mejora la precisión del conteo en Xiaomi, Huawei y similares. Sin él, algunos fabricantes pueden cerrar la app en segundo plano y perderse eventos.</string>
+
+    <string name="estimate_title">¿Cuántas crees?</string>
+    <string name="estimate_question">¿Cuántas veces crees que has desbloqueado el móvil hoy?</string>
+    <string name="estimate_input_label">Tu número</string>
+    <string name="estimate_confirm">Ver cuántas fueron →</string>
+    <string name="estimate_believed">Creíste %1$d.</string>
+    <string name="estimate_actual">Fueron %1$d.</string>
+    <string name="estimate_vistazos">%1$d fueron vistazos.</string>
+
+    <string name="widget_vistazos_suffix">vistazos</string>
+
+    <string name="notification_channel_precision">Barra de estado</string>
+    <string name="notification_channel_report">Reporte diario</string>
+    <string name="daily_report_title">Vistazo</string>
+    <string name="daily_report_text">Hoy: %1$d desbloqueos · %2$d vistazos</string>
+    <string name="precision_notification_text">Hoy: %1$d desbloqueos · %2$d vistazos</string>
+    <string name="precision_notification_fallback">Conteo de desbloqueos activo.</string>
+</resources>

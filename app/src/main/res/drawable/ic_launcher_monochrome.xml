@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Versión monocromo para themed icons (Android 13+): un solo color,
+         el sistema lo recolorea. -->
+    <path
+        android:strokeColor="#1F2937"
+        android:strokeWidth="5.5"
+        android:strokeLineJoin="round"
+        android:pathData="M24,54 C32,36 76,36 84,54 C76,72 32,72 24,54 Z" />
+    <path
+        android:fillColor="#1F2937"
+        android:pathData="M61,54 m-9,0 a9,9 0 1,1 18,0 a9,9 0 1,1 -18,0" />
+</vector>
