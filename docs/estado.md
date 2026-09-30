@@ -1,6 +1,12 @@
 # Estado del desarrollo
 
-Al 2026-09-30: **v1.1 implementada y compilando** (4 features del backlog).
+Al 2026-09-30: **v1.0 publicada** (incluye todo lo de la v1.1). Repo público
+en github.com/sergiobe31/vistazo, APK firmado en GitHub Releases (tag v1.0),
+web en GitHub Pages (sergiobe31.github.io/vistazo, servida desde /docs).
+Release firmado con keystore local (`~/vistazo-release.keystore`,
+credenciales en `~/.vistazo-signing.properties`, fuera del repo — **hacer
+backup del keystore**: sin él no se pueden publicar actualizaciones
+instalables encima).
 
 ## Qué existe ya
 
